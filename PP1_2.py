@@ -8,6 +8,7 @@
 def q1():
   #Write Assignment code here
   name = "Alex"
+  print(name)
 
 def q2():
   #Write Assignment code here
@@ -20,7 +21,7 @@ def q3():
   #Write Assignment code here
   twentyOne = 21
   four = 4
-print(21 // 4)
+  print(21 // 4)
 
 def q4():
   #Write Assignment code here
@@ -40,9 +41,9 @@ def q6():
 
 def q7():
   #Write Assignment code here
-seven = 7
-two = 2
-print(seven % two)
+  seven = 7
+  two = 2
+  print(seven % two)
   
 #DO NOT EDIT ANYTHING AFTER THIS COMMENT
 q1()
