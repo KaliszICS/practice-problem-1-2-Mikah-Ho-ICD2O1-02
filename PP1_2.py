@@ -34,10 +34,12 @@ def q5():
   string = "Hello World"
   print(string)
   string = "Goodbye World"
+  print(string)
 
 def q6():
   #Write Assignment code here
   yes = True
+  print(yes)
 
 def q7():
   #Write Assignment code here
